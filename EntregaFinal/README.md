@@ -35,7 +35,7 @@ requirements.txt             # Dependencias del proyecto
 
 --------- Instalación ---------
 Clonar el repositorio:
-git clone https://github.com/tuusuario/ENTREGABLEFINAL.git
+git clone https://github.com/carolinares03/AC_DataEngineer.git
 cd ENTREGABLEFINAL
 
 Crear un entorno virtual e instalar las dependencias:

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+
+# Configuración personal
+.env
+
+# Notebooks y salidas temporales
+*.ipynb_checkpoints 
